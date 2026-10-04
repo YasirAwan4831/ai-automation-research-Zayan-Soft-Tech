@@ -8,6 +8,7 @@ export const metadata = {
   metadataBase: new URL(base),
   title: { default: `${site.title} | AI Automation Research`, template: "%s | AI Automation Research" },
   description: site.description,
+  icons: { icon: "/icon.jpeg" },
   authors: [{ name: site.author }],
   alternates: { canonical: "/" },
   openGraph: { title: `${site.title} | AI Automation Research`, description: site.description, type: "website", siteName: site.shortTitle, images: [{ url: "/images/profile.jpg", alt: "Muhammad Yasir" }] },

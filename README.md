@@ -86,28 +86,10 @@ The website keeps the **full text of the paper** and improves how it is read:
 
 | | |
 |---|---|
-| **Website** | https://YOUR-DEPLOYMENT-URL |
-| **Repository** | https://github.com/YOUR_USERNAME/ai-automation-research |
+| **Website** | https://ai-automation-research.vercel.app/ |
+| **Repository** | https://github.com/YasirAwan4831/ai-automation-research-Zayan-Soft-Tech |
 
 > Replace the placeholders above after you deploy.
-
----
-
-## 🖼 Screenshots
-
-> Add your own screenshots to `public/images/` and update the paths below.
-
-<div align="center">
-
-| Home | Research documentation |
-|:---:|:---:|
-| <img src="public/images/screenshot-home.png" alt="Home page" width="420" /> | <img src="public/images/screenshot-docs.png" alt="Documentation layout" width="420" /> |
-
-| Workflows | Dark mode |
-|:---:|:---:|
-| <img src="public/images/screenshot-workflows.png" alt="Workflow diagrams" width="420" /> | <img src="public/images/screenshot-dark.png" alt="Dark mode" width="420" /> |
-
-</div>
 
 ---
 
